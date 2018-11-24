@@ -1,0 +1,15 @@
+.sl-overlay{
+	background-color: #000
+}
+.sl-wrapper .sl-counter{
+	color: #fff;
+	font-size: 2rem;
+}
+.sl-wrapper .sl-close{
+	color: #fff;
+}
+.sl-wrapper .sl-navigation button.sl-prev,
+.sl-wrapper .sl-navigation button.sl-next{
+	color: #fff;
+	font-size: 4rem;
+}

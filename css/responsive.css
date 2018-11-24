@@ -1,0 +1,203 @@
+@media only screen and (min-width: 1025px) and (max-width: 1217px){
+	.carousel-control i{
+		left: 55px;
+	}
+	#intro .carousel-caption{
+		left: 25%;
+		right: 25%;
+	}
+}
+@media only screen and (min-width: 1025px) and (max-width: 1199px){
+	#services .skills .skills-details{
+		min-height: 420px;
+	}
+}
+@media only screen and (max-width: 1024px){
+	.carousel-control i{
+		left: 55px;
+	}
+	#intro .carousel-caption{
+		left: 25%;
+		right: 25%;
+	}
+	#services .skills .skills-details{ 
+		min-height: 420px;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	.carousel-control i{
+		left: 45px;
+	}
+	#intro .carousel-caption{
+		left: 17%;
+		right: 17%;
+	}
+	#about .team-member .team-member-img img{
+		margin: 0 auto;
+	}
+}
+@media only screen and (min-width: 640px) and (max-width: 767px){
+	body p{
+		font-size: 16px
+	}
+	.navbar-inverse .navbar-collapse, 
+	.navbar-inverse .navbar-form{
+		border-color: #74c7d5;
+	}
+	.navbar-inverse .navbar-toggle{
+		border-color: #74c7d5;
+		margin-top: 15px;
+	}
+	.navbar-inverse .navbar-toggle:focus,
+	.navbar-inverse .navbar-toggle:hover{
+		background-color: #74c7d5;
+	}
+	.nav>li{
+		margin-bottom: 10px;
+	}
+	.carousel-control i{
+		left: 45px;
+		font-size: 30px;
+	}
+	#intro .carousel-caption{
+		left: 17%;
+		right: 17%;
+	}
+	#intro .carousel-caption h2{
+		font-size: 25px;
+	}
+	#intro .carousel-caption h1 .big-font{
+		font-size: 65px;
+	}
+	#services .skills .skills-details .skills-text h4{
+		font-size: 25px;
+		font-weight: 600;
+	}
+	#about .team-member .team-member-img img{
+		margin: 0 auto;
+	}
+	.portfolio-btn h4{
+		text-align: center;
+		font-weight: 600;
+		font-size: 25px;
+		margin: 20px 0;
+	}
+	.portfolio-button{
+		text-align: center;
+	}
+	.portfolio .portfolio-img img{
+		width: 100%;
+	}
+	.contact-details .contact-info{
+		text-align: center;
+	}
+	#contact-us .contact-details h4{
+		margin-top: 30px;
+		font-weight: 600;
+		text-align: center;
+	}
+}
+@media only screen and (max-width: 640px){
+	.navbar-inverse .navbar-collapse, 
+	.navbar-inverse .navbar-form{
+		border-color: #74c7d5;
+	}
+	.navbar-inverse .navbar-toggle{
+		border-color: #74c7d5;
+		margin-top: 15px;
+	}
+	.navbar-inverse .navbar-toggle:focus,
+	.navbar-inverse .navbar-toggle:hover{
+		background-color: #74c7d5;
+	}
+	.nav>li{
+		margin-bottom: 10px;
+	}
+	.portfolio-btn h4{
+		text-align: center;
+		font-weight: 600;
+		font-size: 25px;
+		margin: 20px 0;
+	}
+	.portfolio-button{
+		text-align: center;
+	}
+	.portfolio .portfolio-img img{
+		width: 100%;
+	}
+	.contact-details .contact-info{
+		text-align: center;
+	}
+	#contact-us .contact-details h4{
+		margin-top: 30px;
+		font-weight: 600;
+		text-align: center;
+	}
+}
+@media only screen and (min-width: 480px) and (max-width: 639px){
+	.carousel-control i{
+		left: 25px;
+		font-size: 30px;
+	}
+	#intro .carousel-caption{
+		left: 20%;
+		top: 40%;
+		background-color: transparent;
+	}
+	#our-work .portfolio .portfolio-item .portfolio-img .overlay h6{
+		margin-top: 28%;
+	}
+}
+@media only screen and (max-width: 480px){
+	#intro .carousel-caption{
+		background-color: transparent;
+	}
+	footer ul li a{
+		font-size: 15px;
+	}
+}
+@media only screen and (min-width: 320px) and (max-width: 479px){
+	.carousel-control{
+		display: none;
+	}
+	#intro .carousel-caption h2{
+		font-size: 22px;
+	}
+	#intro .carousel-caption h1 .big-font{
+		font-size: 45px;
+	}
+	#our-work .portfolio-btn .btn{
+		margin: 10px;
+	}
+	#our-work .portfolio .portfolio-item .portfolio-img .overlay h6{
+		margin-top: 10%;
+	}
+}
+@media only screen and (max-width: 320px){
+	.carousel-control{
+		display: none;
+	}
+	#intro .carousel-caption h2{
+		font-size: 22px;
+	}
+	#intro .carousel-caption h1 .big-font{
+		font-size: 45px;
+	}
+	#our-work .portfolio-btn .btn{
+		margin: 10px 0;
+	}
+	#our-work .portfolio .portfolio-item .portfolio-img .overlay .icon a i{
+		margin-top: 17%;
+	}
+	#our-work .portfolio .portfolio-item .portfolio-img .overlay h6{
+		margin-top: 18%;
+	}
+	footer ul li{
+		margin: 20px 10px;
+	}
+}
+@media only screen and (max-width: 300px){
+	#our-work .portfolio .portfolio-item .portfolio-img .overlay h6{
+		margin-top: 10%;
+	}
+}
